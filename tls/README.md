@@ -1,8 +1,8 @@
-# SSL Check
+# TLS Check
 
 ## Overview
 
-This check monitors various aspects of SSL certificates.
+This check monitors various aspects of TLS certificates.
 
 ## Setup
 
